@@ -2,4 +2,6 @@ This repository includes F1u and F1d data extracted from both proton and neutron
 
 Q2(GeV/c)^2   F1u    dF1u    F1d     dF1d
 
+In order to extract F1u and F1d from the Sachs form factor measurements, equations 2 and 3 of paper were used. The Sachs form factor measurements for each of the proton and neutron world data are analyzed using a parametrization for its isospin partner counterpart. The parametrization that was used is given as the Reference^{39} in the paper.
+
 For further questions please contact H.atac at h.atac@temple.edu.
